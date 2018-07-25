@@ -1,0 +1,56 @@
+
+.header{
+		font-size: 40px;
+}
+.bodyBackground{
+	background-color: rgb(88, 172, 241);
+}
+.pFont{
+	font-family: "Times New Roman", times, sarif;
+}
+
+.liHoriz{
+	float: left;
+}
+
+.divBoarder{
+	border-style: groove;
+	border-color: red;
+}
+
+.padding{
+
+	padding-top:10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+.margin
+{
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+menu {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+.backImage {
+    background-image: url(background.jpg) no-repeat center fixed; 
+    background-size: cover;
+    opacity: .4;
+}
